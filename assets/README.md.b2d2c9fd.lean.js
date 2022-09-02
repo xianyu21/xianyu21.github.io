@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o}from"./app.7b0d2c51.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","lastUpdated":null}',s={},n=o("h1",{align:"center"},"Vuetom Theme Documents",-1),r=[n];function c(_,d,i,l,p,m){return a(),t("div",null,r)}var h=e(s,[["render",c]]);export{f as __pageData,h as default};

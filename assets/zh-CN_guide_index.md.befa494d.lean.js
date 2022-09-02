@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,g as c}from"./app.7b0d2c51.js";const f='{"title":"\u6307\u5F15","description":"","frontmatter":{},"headers":[],"relativePath":"zh-CN/guide/index.md","lastUpdated":null}',d={},a=c("",8),s=[a];function p(i,r,_,n,l,h){return t(),o("div",null,s)}var m=e(d,[["render",p]]);export{f as __pageData,m as default};
