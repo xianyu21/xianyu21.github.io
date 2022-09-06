@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./app.bb3e78c2.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),a={name:"index.md"},s=Object.assign(a,{setup(n){return typeof window<"u"&&(localStorage.getItem("vuetom_lang"),location.pathname="/xianyu21.github.io/zh-CN/"),(o,i)=>(e(),t("div"))}});export{c as __pageData,s as default};
